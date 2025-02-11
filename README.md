@@ -8,4 +8,4 @@ In light of ethical considerations and data protection, we have elected to uploa
 - You should provide a research plan along with a justification for the application. Such documentation will serve as the basis to assess the research objectives and the academic merit of the applicant's proposed study.
 - You should commit to safeguarding personal privacy, ensuring the security of data, and acknowledging the use of TCMNER2024 data resources when publishing research findings.
 
-Applicants can submit requests for academic permissions via the following E-mail addresses: tongyu at stu.edu.cn; chpcai at stu.edu.cn.
+
